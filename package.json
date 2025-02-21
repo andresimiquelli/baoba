@@ -1,0 +1,24 @@
+{
+  "name": "baoba",
+  "version": "1.0.0",
+  "description": "CMS headless projected to be flexible, robust and performatic using MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresimiquelli/baoba.git"
+  },
+  "keywords": [
+    "cms",
+    "headless",
+    "mongodb"
+  ],
+  "author": "João André Simiquelli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andresimiquelli/baoba/issues"
+  },
+  "homepage": "https://github.com/andresimiquelli/baoba#readme"
+}
